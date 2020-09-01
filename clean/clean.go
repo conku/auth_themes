@@ -15,7 +15,7 @@ import (
 	"github.com/conku/i18n/backends/yaml"
 	"github.com/conku/qor"
 	"github.com/conku/qor/utils"
-	render "github.com/conku/render2"
+	render "github.com/conku/render"
 )
 
 // ErrPasswordConfirmationNotMatch password confirmation not match error
